@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361210173656",
+    "firebase_url": "https://heckwalls.firebaseio.com",
+    "project_id": "heckwalls",
+    "storage_bucket": "heckwalls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361210173656:android:e7cba4f12df3ffbcee1fad",
+        "android_client_info": {
+          "package_name": "com.heckteck.heckwalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361210173656-emb10j0b3s50idgm1tas04i0p3hftlti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPk3C9luT2mOGYlqgx8Ge-tmGbjZrTKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361210173656-emb10j0b3s50idgm1tas04i0p3hftlti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
